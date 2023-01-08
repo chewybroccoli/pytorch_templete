@@ -1,5 +1,5 @@
-# PyTorch Template Project
-PyTorch deep learning project made easy.
+# PyTorch Templete
+This templete is just for baseline modules or methods for PyTorch Modelling.
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
